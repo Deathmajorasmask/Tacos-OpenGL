@@ -1,0 +1,58 @@
+1_Tacos de Asada:
+Carne asada (generalmente de res)
+Cebolla picada
+Cilantro
+Salsa (roja o verde)
+Tortilla de maíz
+/
+2_Tacos al Pastor:
+Carne de cerdo marinada (pastor)
+Piña
+Cebolla picada
+Cilantro fresco
+Salsa roja o verde
+Tortilla de maíz
+/
+3_Tacos de Carnitas:
+Carnitas de cerdo
+Cebolla
+Cilantro
+Salsa (roja o verde)
+Tortilla de maíz
+/
+4_Tacos de Barbacoa:
+Barbacoa de res o cordero
+Cebolla picada
+Cilantro
+Limón
+Salsa
+Tortilla de maíz
+/
+5_Tacos de Cochinita Pibil:
+Cochinita pibil (cerdo adobado con achiote)
+Cebolla morada encurtida
+Salsa de habanero o chile xnipec
+Tortilla de maíz
+/
+6_Tacos de Pescado:
+Pescado frito o a la parrilla
+Repollo o lechuga rallada
+Salsa de crema o mayonesa
+Limón
+Pico de gallo
+Tortilla de maíz o harina
+/
+7_Tacos de Camarón:
+Camarones a la parrilla o fritos
+Repollo o lechuga rallada
+Salsa de crema o mayonesa
+Limón
+Pico de gallo
+Tortilla de maíz o harina
+/
+8_Tacos Gobernador:
+Camarones con queso derretido
+Cebolla
+Pimiento
+Salsa
+Tortilla de maíz o harina
